@@ -1,0 +1,4 @@
+pkg update && pkg upgrade -y
+pkg install python iproute2 iputils dnsutils curl traceroute -y
+mkdir -p ~/xtan-tkj
+cd ~/xtan-tkj
